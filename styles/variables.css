@@ -4,7 +4,7 @@
     --inter-font-family: "Inter";
     --themes-main-color: #00CC14;
     --themes-background: #000;
-    --font-weight: 465, 785;
+    --font-weight: 465 785;
     --background-gradient: repeating-linear-gradient(90deg, #007f0c 0 2px, rgb(0 0 0/0) 2px 4px),
       repeating-linear-gradient(180deg, #007f0c 0 2px, rgb(0 0 0/0) 2px 4px),
       linear-gradient(180deg, #007f0c 0%, #004306 100%);
