@@ -49,3 +49,18 @@
     }
 
 }
+
+.theme-menu__button:disabled::after {
+  content: "▶";
+  position: absolute;
+  right: 100%;
+  animation: pointer 0.5s ease-in-out infinite alternate-reverse;
+}
+
+.like-icon.is-liked .heart {
+  animation: heart 0.3s ease-in 0.1s alternate-reverse;
+}
+
+.like-icon.is-liked .sparks {
+  animation: sparks 0.3s ease-in 0.3s alternate-reverse;
+}
